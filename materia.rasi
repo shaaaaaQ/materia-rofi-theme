@@ -22,6 +22,11 @@
 	font: "Roboto 13";
 }
 
+element-text, element-icon {
+        background-color: inherit;
+        text-color: inherit;
+}
+
 window {
 	/*fullscreen: true;*/
 	background-color: #383838;
