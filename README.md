@@ -7,9 +7,6 @@ What it looks like:
 ![Materia Rofi Theme](https://i.imgur.com/V4DQyiE.png)
 
 ## Installation
-
-One Liner:
-
 ```
 curl -fLo /usr/share/rofi/themes/materia.rasi https://raw.githubusercontent.com/shaaaaaQ/materia-rofi-theme/master/materia.rasi
 ```
