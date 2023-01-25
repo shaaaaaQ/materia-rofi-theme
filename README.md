@@ -11,15 +11,7 @@ What it looks like:
 One Liner:
 
 ```
-# wget https://raw.githubusercontent.com/shaaaaaQ/materia-rofi-theme/master/materia.rasi -P /usr/share/rofi/themes
-```
-
-Or, the long version:
-
-```
-$ git clone https://github.com/shaaaaaQ/materia-rofi-theme.git
-$ cd materia-rofi-theme
-# cp materia.rasi /usr/share/rofi/themes
+curl -fLo /usr/share/rofi/themes/materia.rasi https://raw.githubusercontent.com/shaaaaaQ/materia-rofi-theme/master/materia.rasi
 ```
 
 ## Execute the Theme
